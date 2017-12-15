@@ -1,0 +1,10 @@
+#Pythom
+	DESVENTAJAS
+	•Las versiones que no son compatibles entre si 
+	VENTAJAS
+	•Es menos codigo que otros lenguajes de programación por:
+		-No hay llaves de cierre, se hace con tabulaciones.
+		-El código fuente esta codificado en UTF-8.
+	
+#Ejercícios
+	•Mirar: https://wiki.python.org/moin/BeginnersGuide
